@@ -1,0 +1,26 @@
+<launch>
+    <include file="$(find zed_wrapper)/launch/zedm.launch">
+        <arg name="camera_model" value="zedm" />
+    </include>
+
+    <!-- UR5 robot tanımını dahil et -->
+    <include file="$(find ur_robot_driver)/launch/ur5_bringup.launch">
+        <arg name="robot_ip" value="192.10.0.12"/>
+    </include>
+    
+    <include file="$(find ur_description)/launch/load_ur5.launch"/>
+
+    <include file="$(find ur5_moveit_config)/launch/moveit_planning_execution.launch"/>
+    <include file="$(find ur5_moveit_config)/launch/moveit_rviz.launch"/>
+    
+    <node name="zed_apriltag" pkg="jointControl" type="aprilTagDetectinRobotBase_v9.py" output="screen">
+        <param name="use_sim_time" value="false"/>
+        <!-- Add any other necessary parameters here -->
+    </node>
+
+    <!-- tool0 ile zedm_base_link arasındaki statik dönüşüm -->
+    <node pkg="tf2_ros" type="static_transform_publisher" name="tool0_to_zedm" args="0 -0.03 0.065 0 -1.57 0 /wrist_3_link /zedm_base_link" />
+    
+    <node name="robot_move_server" pkg="jointControl" type="robot_move_server.py" output="screen"></node>
+
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/omer/catkin_ws/install
+
+Name: skbot_navigation
+Description: Description of skbot_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

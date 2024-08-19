@@ -1,0 +1,12 @@
+
+float64 x_zed
+float64 y_zed
+float64 z_zed
+float64 roll
+float64 pitch
+float64 yaw
+string src_frame
+string child_frame
+
+# Response
+bool success

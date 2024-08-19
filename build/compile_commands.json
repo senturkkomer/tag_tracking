@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-examples/tutorials/zed_depth_sub_tutorial",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_depth_sub_tutorial\\\" -I/home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_depth_sub_tutorial/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/zed_depth_sub.dir/src/zed_depth_sub_tutorial.cpp.o -c /home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_depth_sub_tutorial/src/zed_depth_sub_tutorial.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_depth_sub_tutorial/src/zed_depth_sub_tutorial.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-examples/rviz-plugin-zed-od",
+  "command": "/usr/bin/c++  -DPLUGINLIB__DISABLE_BOOST_FUNCTIONS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rviz_plugin_zed_od\\\" -Drviz_plugin_zed_od_EXPORTS -I/home/omer/catkin_ws/build/zed-ros-examples/rviz-plugin-zed-od/rviz_plugin_zed_od_autogen/include -I/home/omer/catkin_ws/devel/include -I/home/omer/catkin_ws/src/zed-ros-interfaces/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE -I/home/omer/catkin_ws/src/zed-ros-examples/rviz-plugin-zed-od/src/plugin/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -O3 -DNDEBUG -fPIC   -fPIC -o CMakeFiles/rviz_plugin_zed_od.dir/rviz_plugin_zed_od_autogen/mocs_compilation.cpp.o -c /home/omer/catkin_ws/build/zed-ros-examples/rviz-plugin-zed-od/rviz_plugin_zed_od_autogen/mocs_compilation.cpp",
+  "file": "/home/omer/catkin_ws/build/zed-ros-examples/rviz-plugin-zed-od/rviz_plugin_zed_od_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-examples/rviz-plugin-zed-od",
+  "command": "/usr/bin/c++  -DPLUGINLIB__DISABLE_BOOST_FUNCTIONS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rviz_plugin_zed_od\\\" -Drviz_plugin_zed_od_EXPORTS -I/home/omer/catkin_ws/build/zed-ros-examples/rviz-plugin-zed-od/rviz_plugin_zed_od_autogen/include -I/home/omer/catkin_ws/devel/include -I/home/omer/catkin_ws/src/zed-ros-interfaces/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE -I/home/omer/catkin_ws/src/zed-ros-examples/rviz-plugin-zed-od/src/plugin/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -O3 -DNDEBUG -fPIC   -fPIC -o CMakeFiles/rviz_plugin_zed_od.dir/src/plugin/src/zed_od_display.cpp.o -c /home/omer/catkin_ws/src/zed-ros-examples/rviz-plugin-zed-od/src/plugin/src/zed_od_display.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-examples/rviz-plugin-zed-od/src/plugin/src/zed_od_display.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-examples/rviz-plugin-zed-od",
+  "command": "/usr/bin/c++  -DPLUGINLIB__DISABLE_BOOST_FUNCTIONS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rviz_plugin_zed_od\\\" -Drviz_plugin_zed_od_EXPORTS -I/home/omer/catkin_ws/build/zed-ros-examples/rviz-plugin-zed-od/rviz_plugin_zed_od_autogen/include -I/home/omer/catkin_ws/devel/include -I/home/omer/catkin_ws/src/zed-ros-interfaces/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/OGRE/Overlay -I/usr/include/OGRE -I/home/omer/catkin_ws/src/zed-ros-examples/rviz-plugin-zed-od/src/plugin/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -O3 -DNDEBUG -fPIC   -fPIC -o CMakeFiles/rviz_plugin_zed_od.dir/src/plugin/src/zed_od_info.cpp.o -c /home/omer/catkin_ws/src/zed-ros-examples/rviz-plugin-zed-od/src/plugin/src/zed_od_info.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-examples/rviz-plugin-zed-od/src/plugin/src/zed_od_info.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-wrapper/zed_nodelets",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_nodelets\\\" -DZEDNodelets_EXPORTS -I/home/omer/catkin_ws/devel/include -I/home/omer/catkin_ws/src/zed-ros-interfaces/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/local/cuda/include -I/usr/local/zed/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/tools/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/zed_nodelet/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_sync_nodelet/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_demux_nodelet/include   -fopenmp -O3 -DNDEBUG -fPIC   -std=c++11 -Wno-deprecated-declarations -o CMakeFiles/ZEDNodelets.dir/src/tools/src/sl_tools.cpp.o -c /home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/tools/src/sl_tools.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/tools/src/sl_tools.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-wrapper/zed_nodelets",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_nodelets\\\" -DZEDNodelets_EXPORTS -I/home/omer/catkin_ws/devel/include -I/home/omer/catkin_ws/src/zed-ros-interfaces/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/local/cuda/include -I/usr/local/zed/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/tools/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/zed_nodelet/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_sync_nodelet/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_demux_nodelet/include   -fopenmp -O3 -DNDEBUG -fPIC   -std=c++11 -Wno-deprecated-declarations -o CMakeFiles/ZEDNodelets.dir/src/zed_nodelet/src/zed_wrapper_nodelet.cpp.o -c /home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/zed_nodelet/src/zed_wrapper_nodelet.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/zed_nodelet/src/zed_wrapper_nodelet.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-wrapper/zed_nodelets",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_nodelets\\\" -DZEDNodelets_EXPORTS -I/home/omer/catkin_ws/devel/include -I/home/omer/catkin_ws/src/zed-ros-interfaces/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/local/cuda/include -I/usr/local/zed/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/tools/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/zed_nodelet/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_sync_nodelet/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_demux_nodelet/include   -fopenmp -O3 -DNDEBUG -fPIC   -std=c++11 -Wno-deprecated-declarations -o CMakeFiles/ZEDNodelets.dir/src/rgbd_sensors_sync_nodelet/src/rgbd_sensor_sync.cpp.o -c /home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_sync_nodelet/src/rgbd_sensor_sync.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_sync_nodelet/src/rgbd_sensor_sync.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-wrapper/zed_nodelets",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_nodelets\\\" -DZEDNodelets_EXPORTS -I/home/omer/catkin_ws/devel/include -I/home/omer/catkin_ws/src/zed-ros-interfaces/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/local/cuda/include -I/usr/local/zed/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/tools/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/zed_nodelet/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_sync_nodelet/include -I/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_demux_nodelet/include   -fopenmp -O3 -DNDEBUG -fPIC   -std=c++11 -Wno-deprecated-declarations -o CMakeFiles/ZEDNodelets.dir/src/rgbd_sensors_demux_nodelet/src/rgbd_sensor_demux.cpp.o -c /home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_demux_nodelet/src/rgbd_sensor_demux.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-wrapper/zed_nodelets/src/rgbd_sensors_demux_nodelet/src/rgbd_sensor_demux.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-examples/tutorials/zed_obj_det_sub_tutorial",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_obj_det_sub_tutorial\\\" -I/home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_obj_det_sub_tutorial/include -I/home/omer/catkin_ws/devel/include -I/home/omer/catkin_ws/src/zed-ros-interfaces/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/zed_obj_det_sub.dir/src/zed_obj_det_sub_tutorial.cpp.o -c /home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_obj_det_sub_tutorial/src/zed_obj_det_sub_tutorial.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_obj_det_sub_tutorial/src/zed_obj_det_sub_tutorial.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-examples/tutorials/zed_sensors_sub_tutorial",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_sensors_sub_tutorial\\\" -I/home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_sensors_sub_tutorial/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/zed_sensors_sub.dir/src/zed_sensors_sub_tutorial.cpp.o -c /home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_sensors_sub_tutorial/src/zed_sensors_sub_tutorial.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_sensors_sub_tutorial/src/zed_sensors_sub_tutorial.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-examples/tests/zed_sync_test",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_sync_test\\\" -DZEDSyncTest_EXPORTS -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/omer/catkin_ws/src/zed-ros-examples/tests/zed_sync_test/src -isystem /usr/include/opencv4  -O3 -DNDEBUG -fPIC   -std=c++11 -Wno-deprecated-declarations -o CMakeFiles/ZEDSyncTest.dir/src/rgbd_test_sync.cpp.o -c /home/omer/catkin_ws/src/zed-ros-examples/tests/zed_sync_test/src/rgbd_test_sync.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-examples/tests/zed_sync_test/src/rgbd_test_sync.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-examples/tutorials/zed_tracking_sub_tutorial",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_tracking_sub_tutorial\\\" -I/home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_tracking_sub_tutorial/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/zed_tracking_sub.dir/src/zed_tracking_sub_tutorial.cpp.o -c /home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_tracking_sub_tutorial/src/zed_tracking_sub_tutorial.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_tracking_sub_tutorial/src/zed_tracking_sub_tutorial.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-examples/tutorials/zed_video_sub_tutorial",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_video_sub_tutorial\\\" -I/home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_video_sub_tutorial/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -o CMakeFiles/zed_video_sub.dir/src/zed_video_sub_tutorial.cpp.o -c /home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_video_sub_tutorial/src/zed_video_sub_tutorial.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-examples/tutorials/zed_video_sub_tutorial/src/zed_video_sub_tutorial.cpp"
+},
+{
+  "directory": "/home/omer/catkin_ws/build/zed-ros-wrapper/zed_wrapper",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"zed_wrapper\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -O3 -DNDEBUG   -std=c++11 -o CMakeFiles/zed_wrapper_node.dir/src/zed_wrapper_node.cpp.o -c /home/omer/catkin_ws/src/zed-ros-wrapper/zed_wrapper/src/zed_wrapper_node.cpp",
+  "file": "/home/omer/catkin_ws/src/zed-ros-wrapper/zed_wrapper/src/zed_wrapper_node.cpp"
+}
+]

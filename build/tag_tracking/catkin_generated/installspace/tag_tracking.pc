@@ -1,0 +1,8 @@
+prefix=/home/omer/catkin_ws/install
+
+Name: tag_tracking
+Description: Description of tag_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

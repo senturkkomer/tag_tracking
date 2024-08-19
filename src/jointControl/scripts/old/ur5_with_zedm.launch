@@ -1,0 +1,7 @@
+<launch>
+  <!-- Include the UR5 robot description -->
+  <include file="$(find ur_description)/launch/display.launch"/>
+
+  <!-- Static transform from tool0 to zedm_base_link -->
+  <node pkg="tf2_ros" type="static_transform_publisher" name="tool0_to_zedm" args="0 0.065 0.05 0 0 0 /tool0 /zedm_base_link" />
+</launch>

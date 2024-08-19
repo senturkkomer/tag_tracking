@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libur30_kin.so -o /home/omer/catkin_ws/devel/lib/libur30_kin.so CMakeFiles/ur30_kin.dir/src/ur_kin.cpp.o 
